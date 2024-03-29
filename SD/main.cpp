@@ -104,15 +104,10 @@ int main()
 		timSort(nums, n);
 		end = std::chrono::high_resolution_clock::now();
 		duration = std::chrono::duration_cast<std::chrono::milliseconds>(end - start);
-		cout << "              Tim Sort || Timp executie: " << duration.count() << "ms || " << "Corect: " << (verifSort(nums) ? "Da" : "Nu") << "\n";
+		cout << "               Tim Sort || Timp executie: " << duration.count() << "ms || " << "Corect: " << (verifSort(nums) ? "Da" : "Nu") << "\n";
 
 		cout << "\n";
 	}
 
 	return 0;
 }
-
-//MEDIAN LA QUICK
-//ARANJAT CODU
-//RESTRICTIA
-//+REALE

@@ -1,4 +1,4 @@
 ﻿  main.cpp
 C:\Users\David\source\repos\SD\SD\radix_sort.h(11,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\David\source\repos\SD\SD\verif.h(10,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\David\source\repos\SD\SD\verif.h(9,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   SD.vcxproj -> C:\Users\David\source\repos\SD\x64\Debug\SD.exe
